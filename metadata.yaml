@@ -1,0 +1,34 @@
+_repo: Geschichte-der-Ilchane-das-ist-der-Mongolen-in-Persien_31713
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hammer-Purgstall, Freiherr von, Joseph
+    aliases:
+    - Hammer, Joseph von
+    - Purgstall, Joseph Hammer, Freiherr von
+    - Von Hammer, Joseph
+    birthdate: 1774
+    deathdate: 1856
+    gutenberg_agent_id: '35427'
+    url: http://www.gutenberg.org/2009/agents/35427
+    wikipedia: http://de.wikipedia.org/wiki/Joseph_von_Hammer-Purgstall
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2010-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31713'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mongols -- Iran -- History'
+- !lcc 'DS'
+- !lcsh 'Ilkhanid dynasty'
+- !lcsh 'Iran -- History -- 640-1500'
+title: Geschichte der Ilchane, das ist der Mongolen in Persien
+url: http://www.gutenberg.org/ebooks/31713
