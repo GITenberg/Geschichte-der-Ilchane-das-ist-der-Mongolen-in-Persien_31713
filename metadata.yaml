@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35427
     wikipedia: http://de.wikipedia.org/wiki/Joseph_von_Hammer-Purgstall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31713#Geschichte-der-Ilchane-das-ist-der-Mongolen-in-Persien
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2010-03-20'
 gutenberg_type: Text
